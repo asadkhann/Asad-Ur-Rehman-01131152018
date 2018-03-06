@@ -1,0 +1,5 @@
+C:\Users\asadk\documents\visual studio 2013\Projects\vpassi1\vpassi1\bin\Debug\vpassi1.exe.config
+C:\Users\asadk\documents\visual studio 2013\Projects\vpassi1\vpassi1\bin\Debug\vpassi1.exe
+C:\Users\asadk\documents\visual studio 2013\Projects\vpassi1\vpassi1\bin\Debug\vpassi1.pdb
+C:\Users\asadk\documents\visual studio 2013\Projects\vpassi1\vpassi1\obj\Debug\vpassi1.exe
+C:\Users\asadk\documents\visual studio 2013\Projects\vpassi1\vpassi1\obj\Debug\vpassi1.pdb
